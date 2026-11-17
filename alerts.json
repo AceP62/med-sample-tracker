@@ -1,0 +1,30 @@
+{
+    "generated_at": "2026-11-17T14:44:35",
+    "total_alerts": 3,
+    "alerts": [
+        {
+            "sample_id": "SMP-1002",
+            "sample_type": "Serum",
+            "origin": "Praxis Lend",
+            "severity": "WARNING",
+            "type": "TEMPERATURE_HIGH",
+            "message": "Überhitzung (8.7 °C - Maximum: 8.0 °C)"
+        },
+        {
+            "sample_id": "SMP-1004",
+            "sample_type": "Vollblut",
+            "origin": "Praxis Jakomini",
+            "severity": "WARNING",
+            "type": "TEMPERATURE_LOW",
+            "message": "Unterkühlung (1.5 °C - Minimum: 2.0 °C)"
+        },
+        {
+            "sample_id": "SMP-1005",
+            "sample_type": "Serum",
+            "origin": "Praxis Andritz",
+            "severity": "CRITICAL",
+            "type": "TRANSPORT_TIMEOUT",
+            "message": "Transportzeit überschritten (130 Min. - Maximum: 120 Min.)"
+        }
+    ]
+}
