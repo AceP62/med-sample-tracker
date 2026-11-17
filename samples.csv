@@ -1,0 +1,6 @@
+sample_id,sample_type,origin,temperature_c,transport_minutes
+SMP-1001,Vollblut,Praxis Eggenberg,4.2,25
+SMP-1002,Serum,Praxis Lend,8.7,40
+SMP-1003,Plasma,Praxis Geidorf,3.8,15
+SMP-1004,Vollblut,Praxis Jakomini,1.5,55
+SMP-1005,Serum,Praxis Andritz,5.1,130
